@@ -2,4 +2,6 @@
 
 Mit diesem Programm kann direkt aufgzeigt werden, ob (und falls ja, wo) Querkraftprobleme bei einer Stahlbetonplatte vorhanden sind. 
 
-Dabei werden die Tabellenausgaben von CEDRUS über Exceltabellen eingelesen und die einzelnen FE-Elemente eines Netzes ausgewertet.
+Dabei werden die Tabellenausgaben von CEDRUS über Exceltabellen eingelesen und die einzelnen FE-Elemente eines Netzes ausgewertet. 
+
+Es befindet sich eine Dokumentation in der Datei 06_Elementnachweise_Manual.
